@@ -13,7 +13,15 @@
 
 </div>
 
-I build software where **mathematics meets systems engineering** — from compile-time `constexpr` linear algebra in C++20 and numerical PDE solvers to leak-free deep learning pipelines and computer vision systems in Python/PyTorch.
+```text
+       /\        baurzhan@bauer1
+      /  \       --------------------------------------------------
+     / /\ \      Role     : Data Scientist / ML Engineer
+    / ____ \     Focus    : Deep Learning, Quant ML, Scientific Computing
+   /_/    \_\    Core     : Python · PyTorch · C++20 · C
+                 Interests: Time-Series, Computer Vision, PDEs, Tensors
+  [ math + code ] Status  : Open to interesting ML & systems problems
+```
 
 ---
 
